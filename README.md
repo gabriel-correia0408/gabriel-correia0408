@@ -1,4 +1,4 @@
-### Hi, my name is Gabriel Correia 👋
+### Hi I'm Gabriel Correia 👋
 
 <!--
 **gabriel-correia0408/gabriel-correia0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
