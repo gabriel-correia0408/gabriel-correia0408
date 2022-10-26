@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on AmbevTech
+- 🔭 I’m currently working on Zé Delivery
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on projects  python
 - 📫 How to reach me: gabrielcorreia0913@gmail.com
