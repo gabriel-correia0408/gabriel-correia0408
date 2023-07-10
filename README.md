@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects  python
 - 📫 How to reach me: gabrielcorreia0913@gmail.com
 - ⚡ Fun fact: Passionate about technology that transforms people's lives
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-correia-5a79921b2/)]
 square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-correia-5a79921b2/)](https://www.linkedin.com/in/gabriel-correia-5a79921b2/) 
