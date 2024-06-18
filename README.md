@@ -9,7 +9,6 @@ Here are some ideas to get you started:
     <div class="container">
         <h1>Gabriel Correia</h1>
         <ul>
-            <li>🔭 I’m currently working on Zé Delivery</li>
             <li>🌱 I’m currently learning Python</li>
             <li>👯 I’m looking to collaborate on Python projects</li>
             <li>📫 How to reach me: <a href="mailto:gabrielcorreia0913@gmail.com">gabrielcorreia0913@gmail.com</a></li>
