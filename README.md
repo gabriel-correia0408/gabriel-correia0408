@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 -->
 # Gabriel Correia
 
-- 🔭 I’m currently working on Zé Delivery
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Python projects
 - 📫 How to reach me: gabrielcorreia0913@gmail.com
